@@ -2,4 +2,6 @@
 Simple Music Player made with Android Studio
 
 
-[![MusicPlayer](https://yt-embed.herokuapp.com/embed?v=O3CFf3l9WNk)](https://www.youtube.com/watch?v=O3CFf3l9WNk "MusicPlayerTest")
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=O3CFf3l9WNk"><img src="https://img.youtube.com/vi/O3CFf3l9WNk/0.jpg" alt="MusicPlayerTest"></a>
+</div>
